@@ -1,0 +1,40 @@
+body{
+    background-image: url("https://cdn.olhares.com/client/files/foto/big/921/9216559.jpg"); 
+    height: 100vh;
+    
+    
+background-size: cover;
+}
+
+
+h1{ font-family: cursive;
+     font-size: 48px;
+     color: rgb(255, 255, 255);
+    text-align: center;
+
+}
+
+p{ min-height: 150px;
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+    text-align:center;
+    
+}
+.txt1{ text-align: center;
+
+}
+
+main#text{ background-color: rgba(97, 92, 92, 0.4);
+    
+
+
+}
+
+main#container{
+    background-color: rgba(104, 101, 101, 0.4);
+   display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
